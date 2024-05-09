@@ -1,1 +1,1 @@
-This is to calcu;late a simple interest
+This is to calculate a simple interest
